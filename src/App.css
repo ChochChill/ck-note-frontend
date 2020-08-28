@@ -1,0 +1,35 @@
+.App {
+  align-items: center;
+  background-color: #eeeeee;
+
+}
+
+.success_button {
+  color: #ffffff;
+  background-color: #393e46;
+}
+.noteCards{
+  margin-right: px;
+  margin-left: 15px;
+}
+
+.note{
+  margin-bottom: 5px;
+  /* background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%); */
+  background-color:#fff591;
+}
+
+
+.container {
+  height: 100px;
+  position: relative;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
